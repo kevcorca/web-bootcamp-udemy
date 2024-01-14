@@ -1,0 +1,27 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: yellow;
+    font-size: 48px;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 24px;
+}
+
+.code-image {
+    border: 5px solid white;
+    width: 100%;
+}
+
+.container-1 {
+    width: 50%;
+    margin-top: 4%;
+    margin-left: 25%;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
